@@ -1,0 +1,1 @@
+{"root":["./src/server.ts","./src/controllers/chatbotcontroller.ts","./src/data/chatbotdata.ts","./src/routes/chatbotroutes.ts","./src/schemas/chatbotschema.ts","./src/services/chatbotinstructions.ts","./src/utils/logger.ts"],"version":"5.9.3"}
